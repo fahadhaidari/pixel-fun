@@ -1,0 +1,39 @@
+html, body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #111111;
+}
+
+canvas {
+  display: inline-block;
+  margin: 0 auto;
+  margin-top: 20px;
+  background: #000000;
+}
+
+label {
+  display: inline-block;
+  color: #DDDDDD;
+  font-size: 14px;
+}
+
+input {
+  display: inline-block;
+  width: 60px;
+  height: 20px;
+  margin-right: 10px;
+  margin-left: 10px;
+  border: none;
+  text-align: center;
+  border-radius: 5px;
+  background: #EEEEEE;
+  outline: none;
+  font-size: 12px;
+}
+
+.instruction {
+  position: fixed;
+  display: block;
+  font-size: 12px;
+  color: #EEEEEE;
+  margin-top: 50px;
+}
